@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/POKE/static/css/main.f21b5b4d.css",
+    "main.js": "/POKE/static/js/main.99342a5f.js",
+    "static/js/787.08161dd4.chunk.js": "/POKE/static/js/787.08161dd4.chunk.js",
+    "static/media/mainBg.png": "/POKE/static/media/mainBg.5fad14f80723799fcc41.png",
+    "static/media/introLogo.png": "/POKE/static/media/introLogo.eb8fafd668b1febc047e.png",
+    "static/media/introbottom.png": "/POKE/static/media/introbottom.24b26b2c7c84834885de.png",
+    "static/media/type.svg": "/POKE/static/media/type.c0fc42012337a64a42e8.svg",
+    "static/media/home.svg": "/POKE/static/media/home.122e3f32d5ef3306ce89.svg",
+    "static/media/like.svg": "/POKE/static/media/like.cdcb2cde06313582b582.svg",
+    "index.html": "/POKE/index.html",
+    "static/media/likeDel.svg": "/POKE/static/media/likeDel.9f3866074641fb99d76526a6bdc749ea.svg",
+    "static/media/seachicon.svg": "/POKE/static/media/seachicon.b5c50f4f152f14a319c9d0f7093ed04e.svg",
+    "static/media/arrow-l.svg": "/POKE/static/media/arrow-l.5e5aab00c7f2a6c6a6bc26aa813118cb.svg",
+    "static/media/arrow-r.svg": "/POKE/static/media/arrow-r.084bd359c3b434cef3ace32f59baef51.svg",
+    "main.f21b5b4d.css.map": "/POKE/static/css/main.f21b5b4d.css.map",
+    "main.99342a5f.js.map": "/POKE/static/js/main.99342a5f.js.map",
+    "787.08161dd4.chunk.js.map": "/POKE/static/js/787.08161dd4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f21b5b4d.css",
+    "static/js/main.99342a5f.js"
+  ]
+}
